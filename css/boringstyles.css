@@ -2,16 +2,8 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
-  color: blue;
-  font-weight: bold;
-}
-
-p.intro {
+.intro {
+  color: red;
   font-style: italic;
-}
-
-img.intro {
-  display: block;
-  margin: auto;
+  font-weight: bold;
 }
