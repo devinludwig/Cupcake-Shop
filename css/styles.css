@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bolder;
+  font-style: italic;
+  color: purple;
+  font-size: 60px;
+}
