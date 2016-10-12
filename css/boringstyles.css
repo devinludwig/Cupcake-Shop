@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  color: blue;
+  font-weight: bold;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img.intro {
+  display: block;
+  margin: auto;
+}
