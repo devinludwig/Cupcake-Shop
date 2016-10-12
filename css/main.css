@@ -1,0 +1,12 @@
+.first {
+  font-size: 40px;
+  font-style: italic;
+  text-transform: capitalize;
+  text-decoration-color: blue;
+}
+
+.second {
+  font-size: 30px;
+  text-emphasis-style: dot;
+  text-decoration-style: dotted;
+}
